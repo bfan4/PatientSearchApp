@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "swagger.config.title",
+  "type": "java.lang.String",
+  "description": "A description for 'swagger.config.title'"
+}]}
